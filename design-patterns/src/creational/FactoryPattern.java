@@ -3,6 +3,7 @@ package creational;
 import java.util.Scanner;
 
 /**
+*The factory design pattern is used when we have a superclass with multiple subclasses and based on input, we need to return one of the subclasses. This pattern takes out the responsibility of the instantiation of a Class from the client program to the factory class. 
  * Factory Pattern is a creational design pattern that provides a way to create objects
  * without specifying the exact class of the object to be created. based on a given
  *  * input or configuration.
